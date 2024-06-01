@@ -70,13 +70,4 @@ Contributions to enhance the Vrinda Store Data Analysis project are welcome. Ple
 
 This project is open for use and modification to support business analysis and decision-making for Vrinda Store.
 
-## Contact
-
-For questions or further information, please contact:
-
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-
----
-
 This README provides a clear guide for understanding, setting up, and using the Vrinda Store Data Analysis project in Excel, ensuring users can effectively leverage its features for business insights.
